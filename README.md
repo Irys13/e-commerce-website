@@ -21,3 +21,15 @@ Make it:
 - Make it fast
 - Make it cheaply
 - Make it well
+
+
+
+# Diary:
+
+
+## Day 1 - 17 June 2020
+Researched options, what should I use? Choice was between Anguar, React and Vue. Picked Vue due to it's simplicity and flexibility. Also from job search perspective, it's easy to transition to Angular or React if needed.
+Made a quick wireframe of the front page
+
+## Day 2 - 18 June 2020
+Started the project abnd added SCSS to it. Made a rough long term plan and more detailed plan for the front page. 

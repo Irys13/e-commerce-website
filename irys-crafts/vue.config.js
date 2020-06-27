@@ -1,7 +1,5 @@
+// vue.config.js
 module.exports = {
-  presets: [
-    '@vue/cli-plugin-babel/preset'
-  ],
   css: {
     loaderOptions: {
       // pass options to sass-loader
@@ -12,4 +10,4 @@ module.exports = {
       },
     }
   }
-}
+};
